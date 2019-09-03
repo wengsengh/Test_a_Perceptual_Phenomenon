@@ -1,6 +1,6 @@
 # Test-a-Perceptual-Phenomenon
 
-This project is part of Udacity Data Analyst Nanodegree program.
+This project was completed as part of the Udacity Data Analyst Nanodegree program requirements.
 
 ## Project Overview
 
